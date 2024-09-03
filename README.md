@@ -1,15 +1,16 @@
 ### 3.  SISTEMA DE RESERVA DE VUELOS
 
-
-
 ![Captura_desde_2024-09-03_17-57-31-removebg-preview](https://github.com/user-attachments/assets/6a10cea4-1ff4-4107-b5f9-6252243f8830)
 
 
   El sistema de reserva de vuelos es un sistema que permite al cliente-usuario hacer
 consultas y reservas de vuelos, además de poder comprar los vouchers aéreos de
 forma remota, sin la necesidad de recurrir a un agente de viajes humano.
-  Los Agentes de la aerolínea pueden, según la normativa vigente, a) colocar nuevos
-vuelos a nuevos destinos b) Reprogramar vuelos u horarios a destinos existentes.
+
+  Los Agentes de la aerolínea pueden, según la normativa vigente, <br>
+  a) colocar nuevos vuelos a nuevos destinos <br>
+  b) Reprogramar vuelos u horarios a destinos existentes.
+  
 - Los agentes de la aerolínea según los comunicados que reciban, pueden ser notificados de un
 vuelo retrasado o cancelado, y deben dar conocimiento a las personas que viajan.
 - En adición pueden anular definitivamente vuelos a ciertos destinos u en ciertos horarios.
@@ -22,8 +23,7 @@ utilizar el sistema de reserva de vuelos.
 que deben ser validados para que sea concedido el acceso (Login).
 
 ![Captura_desde_2024-09-03_17-59-20-removebg-preview](https://github.com/user-attachments/assets/22c04ca5-5edc-4244-8bf1-be50e58b3d5f)
-
-
+  
 Una vez concedido el acceso, el usuario puede realizar las siguientes operaciones:
 - Consulta de vuelos existentes entre dos destinos en una fecha dada; el resultado es una lista de
 vuelos (aerolínea y número), con las horas de salida y llegada, el precio, y el número de asientos
